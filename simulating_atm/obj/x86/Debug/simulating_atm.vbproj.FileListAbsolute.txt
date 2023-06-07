@@ -1,0 +1,70 @@
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.exe
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.pdb
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.xml
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Login.resources
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Main_atm.resources
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.welcome.resources
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Resources.resources
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.GenerateResource.Cache
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.exe
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.xml
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pdb
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pin.resources
+C:\FACULTY OF WALTER\CODE\VB.NET PROJECTS\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Dispenser.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.exe
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.xml
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pdb
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.exe
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.pdb
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.xml
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Dispenser.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Login.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Main_atm.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pin.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.welcome.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Resources.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.GenerateResource.Cache
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.fund_transfer.resources
+C:\Users\walterjnr1\Desktop\recent s chool projects\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.exe
+C:\Users\walterjnr1\Desktop\recent s chool projects\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.xml
+C:\Users\walterjnr1\Desktop\recent s chool projects\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pdb
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Withdrawal.resources
+C:\Users\walterjnr1\Desktop\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.balance.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.exe
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.pdb
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.xml
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.balance.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Dispenser.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.fund_transfer.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Login.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Main_atm.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pin.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.welcome.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Resources.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Withdrawal.resources
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.exe
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.xml
+F:\Sem.4\VB.net Trials\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pdb
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.exe
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.pdb
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\bin\x86\Debug\simulating_atm.xml
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbprojResolveAssemblyReference.cache
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.balance.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Dispenser.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.fund_transfer.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Login.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Main_atm.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pin.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.welcome.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Resources.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.Withdrawal.resources
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.exe
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.xml
+F:\Sem.4\extra vs code\Simulating ATM voice aided blind\simulating_atm\simulating_atm\obj\x86\Debug\simulating_atm.pdb
